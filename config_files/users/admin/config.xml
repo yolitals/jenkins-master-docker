@@ -35,7 +35,7 @@
       <passwordHash>#jbcrypt:$2a$10$L4hzv/r458psQWiI46yeTOrrAPvPAU38S9PgfHlzr/oGMlvGoI45i</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
-      <emailAddress>admin@xoom.com</emailAddress>
+      <emailAddress>yolita2402@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <jenkins.security.LastGrantedAuthoritiesProperty>
       <roles>
